@@ -1,0 +1,16 @@
+apiVersion : apps/v1beta1
+kind: Deployment
+metadata:
+  name: lnd2020core 
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: lnd2020core
+    spec:
+      containers:
+        - name: lnd2020core
+          image: turibbio/lnd2020argocd:v1
+          ports:
+          - containerPort: 80

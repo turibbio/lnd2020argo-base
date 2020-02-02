@@ -1,0 +1,6 @@
+commonLabels:
+  app: lnd2020argocd-base
+
+resources:
+- deployment.yml
+- service.yml

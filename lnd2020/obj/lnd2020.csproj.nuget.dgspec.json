@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/lnd2020.csproj": {}
+  },
+  "projects": {
+    "/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/lnd2020.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/lnd2020.csproj",
+        "projectName": "lnd2020",
+        "projectPath": "/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/lnd2020.csproj",
+        "packagesPath": "/Users/turibbio/.nuget/packages/",
+        "outputPath": "/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/turibbio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

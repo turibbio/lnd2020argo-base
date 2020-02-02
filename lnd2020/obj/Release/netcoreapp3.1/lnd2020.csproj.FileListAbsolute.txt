@@ -1,0 +1,27 @@
+/app/build/appsettings.Development.json
+/app/build/appsettings.json
+/app/build/Properties/launchSettings.json
+/app/build/lnd2020
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.csprojAssemblyReference.cache
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/staticwebassets/lnd2020.StaticWebAssets.Manifest.cache
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/staticwebassets/lnd2020.StaticWebAssets.xml
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.MvcApplicationPartsAssemblyInfo.cache
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.RazorAssemblyInfo.cache
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.RazorAssemblyInfo.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.AssemblyInfoInputs.cache
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.AssemblyInfo.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.TagHelpers.input.cache
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.TagHelpers.output.cache
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.RazorCoreGenerate.cache
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.RazorTargetAssemblyInfo.cache
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.RazorTargetAssemblyInfo.cs
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.Views.pdb
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.dll
+/Users/turibbio/OneDrive - DotNetCampania/drop/Conferenze/London DevOps Meetup 2020/Demo/lnd2020-base/lnd2020/obj/Release/netcoreapp3.1/lnd2020.pdb
