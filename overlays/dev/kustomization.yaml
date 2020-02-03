@@ -1,0 +1,7 @@
+namePrefix: dev-
+commonLabels:
+  variant: dev
+commonAnnotations:
+  note: this is dev
+resources:
+- ../../manifests
